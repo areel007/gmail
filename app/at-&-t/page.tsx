@@ -51,7 +51,7 @@ export default function ATAndT() {
 
                 <button type="button" className="text-[#40a9e2] p-[10px] w-full font-[600]">Forgot user ID?</button>
 
-                <p className="text-center text-[#40a9e2] font-[600]">Don't have a user ID? Create one now</p>
+                <p className="text-center text-[#40a9e2] font-[600]">Don&apos;t have a user ID? Create one now</p>
             </div>
         </form>
 

@@ -78,7 +78,7 @@ export default function Home() {
           <button type="submit" className="p-[10px] w-full cursor-pointer text-gray-500">Show othe options</button>
         </div>
 
-        <p className="text-center text-gray-500">Don't have an account? <span className="text-gray-700 font-[600] cursor-pointer hover:underline">Sign up</span></p>
+        <p className="text-center text-gray-500">Don&apos;t have an account? <span className="text-gray-700 font-[600] cursor-pointer hover:underline">Sign up</span></p>
       </form>
     </div>
   );
